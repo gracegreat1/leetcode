@@ -10,7 +10,7 @@
 
 
 ## 工程结构
-/分类/题号/题解(解题方法，可省略)
+/分类/题号/题解
 ### 示例
 - Solutions
     - /Solutions/Stack/20/ValidParentheses.java
