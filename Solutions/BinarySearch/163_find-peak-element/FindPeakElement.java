@@ -4,7 +4,7 @@
  */ 
 class findPeakElement {
     /**
-     * mid与mid+1的大小关心->变化趋势->极值在左侧还是右侧
+     * mid与mid+1的大小关系->变化趋势->极值在左侧还是右侧
      * 
      * @param nums
      * @return
