@@ -1,9 +1,8 @@
 /*
  * @Author: Joker
  * @Date: 2020-05-23
- * @FilePath: /leetcode/Solutions/BinarySearch/704_Solution/Solution.java
  */ 
-public class Solution {
+public class BinarySearch {
     /**
      * 普通二分查找
      * 
